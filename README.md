@@ -1,0 +1,1 @@
+In this project, I developed a simple Spring MVC project. I created a dynamic simple form html page using Thymeleaf. When the user enters his name in this form, a text appears in another html page according to this name. Then I used to add data to the model in the MVC architecture and read the data here.
